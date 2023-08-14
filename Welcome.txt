@@ -1,0 +1,1 @@
+This class is about data analysis and processing for astronomoy at undergraduate entry level. 
