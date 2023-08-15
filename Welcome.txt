@@ -1,1 +1,13 @@
 This class is about data analysis and processing for astronomoy at undergraduate entry level. 
+
+We will go over five (maybe more) major topics on the very frontier of astrophysics, inlucidng dark matter, dark energy, exoplanets, gravitational wave, and stellar physics. For each topic, we will adopt the following structure train your wholistic research skills:
+1, Understanding the scientific importance
+2, Understanding the underlying physics and math
+3, Working out a problem as an individual or within a team
+4, Reading research papers to understand the gap between different approaches (e.g., yours vs. other reserachers)
+5, Asking and attempting to solve open questions
+6, Oral presentations using powerpoint slides and a poster
+7, Writing a scientific report
+8, Improving scientific communication skills by creating popular science figures and articles 
+
+
