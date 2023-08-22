@@ -17,8 +17,9 @@ We will go over five (maybe more) major topics on the very frontier of astrophys
 For each topic, you will be assigned a grade (up to 20 points) based on the following metrics:
 1, Written report (5 pts)
 2, Oral presentation with slides or poster presentation (5 pts)
-3, Self-evalution (5 pts)
-4, Professor evaluation based on the above 3 categories and classroom participation (5 pts)
+3, Self-evalution (2 pts)
+4, Week-end assignment on Carmen (3 x 1 pt)
+5, Professor evaluation based on the above 3 categories and classroom participation (5 pts)
 
 Evaluation and rubric:
 Your oral presentation and written report will be evaluated by other teams based the following rubric. Your score will be the average of scores from other teams. 
