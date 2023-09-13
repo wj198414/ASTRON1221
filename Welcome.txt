@@ -34,6 +34,13 @@ B, Does the repot clearly lay out all the assumptions and calculations? (1 pt)
 C, Does the report address all questions in the project? (1 pt)
 D, Are the results sensible? (1 pt)
 
+In addition, here are more specific instructions:
+
+A, The report should be less than 5-page (references/citations excluded) and cover motivation, methods, results, and conclusions. 
+B, The report should clearly lay out all the assumptions and calculations.
+C, The report should address all questions that have been covered in the project.
+D, The report should acknowledge the contribution of each team member when appropriate, e.g., specifying leader and contributors for each section of the report.
+
 The grading scheme is as follows:
 OSU Percentage Scale	LETTER GRADE
 93% - 100%	A
