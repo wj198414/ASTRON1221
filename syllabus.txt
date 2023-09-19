@@ -1,0 +1,127 @@
+This class is about data analysis and processing for astronomoy at undergraduate entry level. 
+
+Days: MWF
+Time: 1:50PM - 2:45PM
+Location: Arps Hall 012
+
+We will go over five (maybe more) major topics on the very frontier of astrophysics, inlucidng dark matter, dark energy, exoplanets, gravitational wave, and stellar physics. For each topic, we will adopt the following structure train your wholistic research skills:
+1, Understanding the scientific importance
+2, Understanding the underlying physics and math
+3, Working out a problem as an individual or within a team
+4, Reading research papers to understand the gap between different approaches (e.g., yours vs. other reserachers)
+5, Asking and attempting to solve open questions
+6, Oral presentations using powerpoint slides and a poster
+7, Writing a scientific report
+8, Improving scientific communication skills by creating popular science figures and articles 
+
+For each topic, you will be assigned a grade (up to 20 points) based on the following metrics:
+1, Written report (5 pts)
+2, Oral presentation with slides or poster presentation (5 pts)
+3, Self-evalution (2 pts)
+4, Week-end assignment on Carmen (3 x 1 pt)
+5, Professor evaluation based on the above 3 categories and classroom participation (5 pts)
+
+Evaluation and rubric:
+Your oral presentation and written report will be evaluated by other teams based the following rubric. Your score will be the average of scores from other teams. 
+1, 5 pts for the oral presentation.
+	A, Is the presentation clear? (1 pt)
+	B, Is the presentation engaging? (1 pt)
+C, Is the presentation complete, i.e., covering motivation, methods, results, and conclusions (2 pt)
+	D, Does the presentation address all the questions from audience? (1 pt)
+2, 5 pts for the written report.
+A, Is the report complete, i.e., covering motivation, methods, results, and conclusions (2 pt)
+B, Does the repot clearly lay out all the assumptions and calculations? (1 pt)
+C, Does the report address all questions in the project? (1 pt)
+D, Are the results sensible? (1 pt)
+
+In addition, here are more specific instructions:
+
+A, The report should be less than 5-page (references/citations excluded) and cover motivation, methods, results, and conclusions. 
+B, The report should clearly lay out all the assumptions and calculations.
+C, The report should address all questions that have been covered in the project.
+D, The report should acknowledge the contribution of each team member when appropriate, e.g., specifying leader and contributors for each section of the report.
+
+The grading scheme is as follows:
+OSU Percentage Scale	LETTER GRADE
+93% - 100%	A
+90% - 93%	A-
+87% - 90%	B+
+83% - 87%	B
+80% - 83%	B-
+77% - 80%	C+
+73% - 77%	C
+70% - 73%	C-
+67% - 70%	D+
+60% - 76%	D
+0%	E
+
+Religious Accommodations
+Our inclusive environment allows for religious expression. Students requesting accommodations
+based on faith, religious or a spiritual belief system in regard to examinations, other academic
+requirements or absences, are required to provide the instructor with written notice of specific
+dates for which the student requests alternative accommodations at the earliest possible date. For
+more information about religious accommodations at Ohio State, visit odi.osu.edu/religious-accommodations.
+
+Weather Or Other Short-Term Closing
+Should in-person classes be canceled, we will meet virtually via CarmenZoom during our
+regularly scheduled time. I will share any updates via CarmenCanvas.
+
+Academic Misconduct
+It is the responsibility of the Committee on Academic Misconduct to investigate or establish
+procedures for the investigation of all reported cases of student academic misconduct. The term
+“academic misconduct” includes all forms of student academic misconduct wherever committed;
+illustrated by, but not limited to, cases of plagiarism and dishonest practices in connection with
+examinations. Instructors shall report all instances of alleged academic misconduct to the
+committee (Faculty Rule 3335-5-487). For additional information, see the Code of Student
+Conduct http://studentlife.osu.edu/csc/.
+
+Students with Disabilities
+The University strives to make all learning experiences as accessible
+as possible. In light of the current pandemic, students seeking to
+request COVID-related accommodations may do so through the
+university's request process, managed by Student Life Disability
+Services. If you anticipate or experience academic barriers based on
+your disability (including mental health, chronic or temporary
+medical conditions), please let me know immediately so that we can
+privately discuss options. To establish reasonable accommodations,
+I may request that you register with Student Life Disability
+Services. After registration, make arrangements with me as soon as
+possible to discuss your accommodations so that they may be
+implemented in a timely fashion. SLDS contact
+information: slds@osu.edu; 614-292-3307; slds.osu.edu; 098 Baker
+Hall, 113 W. 12th Avenue.
+
+Mental Health
+As a student you may experience a range of issues that can cause barriers to learning, such as
+strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty
+concentrating and/or lack of motivation. These mental health concerns or stressful events may
+lead to diminished academic performance or reduce a student’s ability to participate in daily
+activities. The Ohio State University offers services to assist you with addressing these and other
+concerns you may be experiencing. If you or someone you know are suffering from any of the
+aforementioned conditions, you can learn more about the broad range of confidential mental
+health services available on campus via the Office of Student Life’s Counseling and Consultation
+Service (CCS) by visiting ccs.osu.edu or calling 614-292-5766. CCS is located on the 4th Floor
+of the Younkin Success Center and 10th Floor of Lincoln Tower. You can reach an on call
+counselor when CCS is closed at 614-292-5766 and 24 hour emergency help is also available
+24/7 by dialing 988 to reach the Suicide and Crisis Lifeline.
+
+Title IX
+Title IX makes it clear that violence and harassment based on sex and gender are Civil Rights
+offenses subject to the same kinds of accountability and the same kinds of support applied to
+offenses against other protected categories (e.g., race). If you or someone you know has been
+sexually harassed or assaulted, you may find the appropriate resources at http://titleix.osu.edu or
+by contacting the Ohio State Title IX Coordinator at titleix@osu.edu
+
+Diversity
+The Ohio State University affirms the importance and value of diversity in the student body. Our
+programs and curricula reflect our multicultural society and global economy and seek to provide
+opportunities for students to learn more about persons who are different from them. We are
+committed to maintaining a community that recognizes and values the inherent worth and dignity
+of every person; fosters sensitivity, understanding, and mutual respect among each member of
+our community; and encourages each individual to strive to reach his or her own potential.
+Discrimination against any individual based upon protected status, which is defined as age, color,
+disability, gender identity or expression, national origin, race, religion, sex, sexual orientation, or
+veteran status, is prohibited.
+
+
+
