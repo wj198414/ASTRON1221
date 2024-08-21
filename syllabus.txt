@@ -2,7 +2,7 @@ This class is about data analysis and processing for astronomoy at undergraduate
 
 Days: MWF
 Time: 1:50PM - 2:45PM
-Location: Arps Hall 012
+Location: Evans Lab 2004
 
 We will go over five (maybe more) major topics on the very frontier of astrophysics, inlucidng dark matter, dark energy, exoplanets, gravitational wave, and stellar physics. For each topic, we will adopt the following structure train your wholistic research skills:
 1, Understanding the scientific importance
