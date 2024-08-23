@@ -40,6 +40,10 @@ A, The report should be less than 5-page (references/citations excluded) and cov
 B, The report should clearly lay out all the assumptions and calculations.
 C, The report should address all questions that have been covered in the project.
 D, The report should acknowledge the contribution of each team member when appropriate, e.g., specifying leader and contributors for each section of the report.
+E, If genAI is used, specify the GenAI application or tool you used (e.g., Copilot, ChatGPT, Claude
+   AI, Gemini), describe the purpose for which you used GenAI (e.g., idea generation,
+   content creation, explain how you revised prompts or adjusted parameters to refine the
+   GenAI output, and reflect on how you incorporated the GenAI-generated content into your assignment. 
 
 The grading scheme is as follows:
 OSU Percentage Scale	LETTER GRADE
