@@ -28,11 +28,14 @@ Your oral presentation and written report will be evaluated by other teams based
 	B, Is the presentation engaging? (1 pt)
 C, Is the presentation complete, i.e., covering motivation, methods, results, and conclusions (2 pt)
 	D, Does the presentation address all the questions from audience? (1 pt)
+
 2, 5 pts for the written report.
-A, Is the report complete, i.e., covering motivation, methods, results, and conclusions (2 pt)
+A, Is the report complete, i.e., covering motivation, methods, results, and conclusions (1 pt)
 B, Does the repot clearly lay out all the assumptions and calculations? (1 pt)
 C, Does the report address all questions in the project? (1 pt)
 D, Are the results sensible? (1 pt)
+E, Contribution statement (0.5 pt)
+F, AI statement (0.5 pt)
 
 In addition, here are more specific instructions:
 
